@@ -1,5 +1,6 @@
 # git-notebook
 
+
 ## Introducción de GIT
 
 Este documento contiene información sobre la herramienta de GIT
